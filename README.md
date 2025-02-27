@@ -33,9 +33,3 @@ Raised in Chile, moved to Spain as a teenager seeking to broaden my horizons—s
 
 ---
 
-## 📊 GitHub Stats
-![Nicolás's GitHub stats](https://github-readme-stats.vercel.app/api?username=nijordia&show_icons=true&theme=radical)
-
-## 📚 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijordia&layout=compact&theme=radical)
-
