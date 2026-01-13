@@ -8,7 +8,9 @@
 ---
 
 ### About Me
-Raised in Chile, moved to Spain as a teenager seeking to broaden my horizons—starting a journey that has now spanned over a decade, taking me across multiple European cities. Currently in Barcelona, automating processes and planning last-mile logistics through carefully designed architectures with the goal of simplifying redundancies and ultimately saving time. Alongside my work, you will find me building next-generation web UIs and exploring web automation techniques to streamline data-driven workflows. Away from the keyboard, I find balance through the art of magic—whether it’s with a deck of cards, close-up illusions, or stage performances. It’s my creative outlet, a way to stay grounded.
+Raised in Chile, moved to Spain as a teenager seeking to broaden my horizons—starting a journey that has now spanned over a decade, taking me across multiple European cities. Currently in Barcelona, designing dashboards, automating,  processes and planning last-mile logistics through carefully designed cloud architectures; with the goal of simplifying redundancies and ultimately save time. 
+
+Alongside my work, you will find me building next-generation web UIs and exploring web automation techniques to streamline data-driven workflows. Away from the keyboard, I find balance through the art of magic—whether it’s with a deck of cards, close-up illusions, or stage performances. It’s my creative outlet, a way to stay grounded.
 
 ## 🛠️ Technologies & Tools
 
