@@ -2,7 +2,7 @@
   
  # Hi there, I am Nicolás 
 
-*Economics, Philosophy & Politics | Environmental & Natural Resource Economics | Logistics Automation & Data Architectures*
+*Economics, Philosophy & Politics | Environmental & Natural Resource Economics | Data Engineering & Cloud Architectures*
 </div>
 
 ---
