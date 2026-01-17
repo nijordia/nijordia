@@ -8,7 +8,7 @@
 ---
 
 ### About Me
-Raised in Chile, moved to Spain as a teenager seeking to broaden my horizons—starting a journey that has now spanned over a decade, taking me across multiple European cities. Currently in Barcelona designing end-to-end cloud pipelines — from automated data collection &amp; ingestion, through processing &amp; enrichment, to real-time notifications and clean, actionable dashboards. At Amazon I build data pipelines, QuickSight visualizations, and CI/CD workflows for last-mile logistics; eliminating manual work and freeing up stakeholder time for what truly adds value.
+Raised in Chile, moved to Spain as a teenager seeking to broaden my horizons—starting a journey that has now spanned over a decade, taking me across multiple European cities. Currently in Barcelona designing end-to-end cloud pipelines — from automated data collection&amp; ingestion, through processing &amp;enrichment, to real-time notifications and clean, actionable dashboards. At Amazon I build data pipelines, QuickSight visualizations, and CI/CD workflows for last-mile logistics; eliminating manual work and freeing up stakeholder time for what truly adds value.
 
 Alongside my work, you will find me building next-generation web UIs and exploring web automation techniques to streamline data-driven workflows. Away from the keyboard, I find balance through the art of magic—whether it’s with a deck of cards, close-up illusions, or stage performances. It’s my creative outlet, a way to stay grounded.
 
