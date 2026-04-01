@@ -37,7 +37,7 @@ Alongside my work, you will find me building next-generation web UIs and explori
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nicolasjordiaguilar//)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nicolasjordiaguilar/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/14311422/nicolas-j)
 [![Chess.com](https://img.shields.io/badge/-Chess.com-2C2C2C?logo=chess.com&logoColor=white&style=for-the-badge)](https://www.chess.com/member/nijordia)
 [![Goodreads](https://img.shields.io/badge/-Goodreads-382110?logo=goodreads&logoColor=white&style=for-the-badge)](https://www.goodreads.com/user/show/187665020-nicolas-aguilar)
